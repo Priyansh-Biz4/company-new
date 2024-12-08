@@ -9,7 +9,7 @@ const TeamPage = () => {
         <>
           <HeaderTwo className="tekup-header-top bg-light1 "/>
           <PageHeader title="Our team"/>  
-          <TeamSection/>
+          {/* <TeamSection/> */}
           <CtaSection/>
           <FooterOneSection className="tekup-footer-section dark-bg"/>
         </>

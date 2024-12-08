@@ -19,7 +19,7 @@ export default function Home() {
       <ItSolutionSection />
       <RecentProjectsSection />
       <WorkProcessSection/>
-      <TeamSection />
+      {/* <TeamSection /> */}
       {/* <RecentBlogSection /> */}
       <CtaTwoSection/>
       <FooterOneSection className="tekup-footer-section dark-bg extra-minus-margin"/>
